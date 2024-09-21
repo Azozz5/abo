@@ -1,1 +1,1 @@
-$.getScript("https://github.com/Azozz5/abo/blob/main/zur.js");
+$.getScript("https://raw.githack.com/Azozz5/abo/refs/heads/main/zur.js");
