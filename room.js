@@ -335,7 +335,7 @@ button.rsave.btn.btn-primary.fl.tala1 {
 
 #chats.tala1 {
       background-color: #f5f5f5 !important;
-      background-image: url("https://up6.cc/2024/09/172679167642021.jpg");
+      background-image: url("https://up6.cc/2024/09/172703764192211.jpg");
     background-size: 100%;
 background-color: #f5f5f5 !important;
   }
