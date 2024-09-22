@@ -49,7 +49,7 @@ text-shadow: 1px 1px 2px #fff, 0 0 25px #fff, 0 0 5px #fff!important;
 	-webkit-text-fill-color: #0000 !important;
 }
 .nosel.d-flex.room.r19218cf8583xddea8c17-xjcezic {
-    background-image: url(https://up6.cc/2024/09/172679010393511.gif);
+    background-image: url(https://up6.cc/2024/09/172703403383381.jpg);
     background-size: cover;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
